@@ -4,7 +4,7 @@
 
   "broadcast": {
     "enabled": true,
-    "id": "B20260903003",
+    "id": "B20260903004",
     "level": "important",
     "message": "Welcome to use the sckit tools...",
     "mode": "once",
