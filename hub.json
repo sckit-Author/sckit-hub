@@ -4,9 +4,9 @@
 
   "broadcast": {
     "enabled": true,
-    "id": "B20260903001",
+    "id": "B20260903001-2",
     "level": "important",
-    "message": "Welcome to the sckit community. Run \"sckit hub notice\" for more information.",
+    "message": "Welcome to use the sckit tools.",
     "mode": "once",
     "expires": "2026-09-30"
   },
