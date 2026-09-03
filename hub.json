@@ -2,7 +2,7 @@
   "schema_version": "1.0",
 
   "_updated_note": "IMPORTANT: Update this timestamp whenever hub.json content is modified.",
-  "updated": "2026-09-03 22:51:00",
+  "updated": "2026-09-03 23:00:00",
 
   "broadcast": {
     "_enabled_note": "Allowed values: true, false. Set true to enable this broadcast and false to disable it.",
@@ -12,9 +12,9 @@
     "_expires_note": "IMPORTANT: Update the expiration date for every new broadcast. Format: YYYY-MM-DD.",
 
     "enabled": true,
-    "id": "B20260904002",
+    "id": "B20260904003",
     "level": "important",
-    "message": "Welcome to use the sckit tools.....中文能显示吗",
+    "message": "Welcome to use the sckit tools.....",
     "mode": "always",
     "expires": "2026-09-30"
   },
