@@ -1,16 +1,24 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-09-03 21:45:00",
+
+  "_updated_note": "IMPORTANT: Update this timestamp whenever hub.json content is modified.",
+  "updated": "2026-09-03 21:50:00",
 
   "broadcast": {
+    "_enabled_note": "Allowed values: true, false. Set true to enable this broadcast and false to disable it.",
+    "_id_note": "IMPORTANT: Use a new unique ID for every new broadcast.",
+    "_level_note": "Allowed values: info, important, critical.",
+    "_mode_note": "Allowed values: once, always. Use once for normal notices and always only for urgent notices.",
+    "_expires_note": "IMPORTANT: Update the expiration date for every new broadcast. Format: YYYY-MM-DD.",
+
     "enabled": true,
-    "id": "B20260903004",
+    "id": "B20260903001",
     "level": "important",
-    "message": "Welcome to use the sckit tools...",
+    "message": "Welcome to use the sckit tools.....",
     "mode": "once",
     "expires": "2026-09-30"
-  },
-
+  }
+}
   "notices": [
     {
       "id": "N20260903001",
