@@ -49,5 +49,27 @@
     }
   ],
 
-  "resources": []
+  "resources": [
+    {
+      "id": "R000001",
+      "category": "Documentation",
+      "name": "sckit Documentation",
+      "description": "Official documentation and usage information for sckit.",
+      "url": "https://github.com/sckit-Author/sckit-hub"
+    },
+    {
+      "id": "R000002",
+      "category": "Tutorial",
+      "name": "Getting started with sckit",
+      "description": "Introduction to the basic sckit command-line workflow.",
+      "url": "https://github.com/sckit-Author/sckit-hub"
+    },
+    {
+      "id": "R000003",
+      "category": "Demo",
+      "name": "GSE96583 demo dataset",
+      "description": "Example scRNA-seq dataset for testing sckit RNA workflows.",
+      "url": "https://github.com/sckit-Author/sckit-hub"
+    }
+  ]
 }
