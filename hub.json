@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-09-03 19:00:00",
+
+  "notices": [
+    {
+      "id": "N20260903001",
+      "date": "2026-09-03",
+      "level": "important",
+      "title": "Welcome to sckit Hub",
+      "message": "sckit Hub is now available for announcements, community access, and resource sharing."
+    },
+    {
+      "id": "N20260903002",
+      "date": "2026-09-03",
+      "level": "info",
+      "title": "sckit v1.8.1",
+      "message": "The current sckit release includes Make, Kit, Test, and Hub modules."
+    },
+    {
+      "id": "N20260903003",
+      "date": "2026-09-03",
+      "level": "info",
+      "title": "Community development",
+      "message": "sckit community resources and user communication channels are under development."
+    }
+  ],
+
+  "community": [],
+
+  "resources": []
+}
