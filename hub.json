@@ -26,7 +26,28 @@
     }
   ],
 
-  "community": [],
+  "community": [
+    {
+      "name": "GitHub Discussions",
+      "description": "Community discussions, analysis questions, usage experience, and user communication.",
+      "url": "https://github.com/sckit-Author/sckit-hub/discussions"
+    },
+    {
+      "name": "GitHub Issues",
+      "description": "Report sckit software issues, bugs, and unexpected behavior.",
+      "url": "https://github.com/sckit-Author/sckit-hub/issues"
+    },
+    {
+      "name": "Feature Requests",
+      "description": "Suggest new sckit functions, workflows, and improvements.",
+      "url": "https://github.com/sckit-Author/sckit-hub/discussions"
+    },
+    {
+      "name": "Support",
+      "description": "Contact the sckit support team.",
+      "url": "mailto:sckits@yeah.net"
+    }
+  ],
 
   "resources": []
 }
