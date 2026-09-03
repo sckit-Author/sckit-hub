@@ -1,6 +1,15 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-09-03 20:20:00",
+  "updated": "2026-09-03 21:30:00",
+
+  "broadcast": {
+    "enabled": true,
+    "id": "B20260903001",
+    "level": "important",
+    "message": "Welcome to the sckit community. Run \"sckit hub notice\" for more information.",
+    "mode": "once",
+    "expires": "2026-09-30"
+  },
 
   "notices": [
     {
